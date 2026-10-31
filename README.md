@@ -40,5 +40,18 @@ I'm passionate about Minecraft and exploring its development ecosystem.
   <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
 </div>
 
+---
+
+## 🚀 Minecraft Projects
+
+Here are some projects and experiments from my Minecraft journey.
+
+| Project | Description | Status |
+|:---|:---|:---|
+| Minecraft Server | Server setup, configuration & management | Learning |
+| LatteSMP | Minecraft multiplayer survival server | In Progress |
+| Resource Packs | Custom textures and visual experiments | Exploring |
+| Minecraft Add-ons | Learning custom content development | Exploring |
+
 
 
