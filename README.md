@@ -101,7 +101,9 @@ Here are some projects and experiments from my Minecraft journey.
 
 ### 💼 Interested in Working Together?
 
-**DM FOR BUSINESS**
+<div align="center">
+
+[![DM FOR BUSINESS](https://img.shields.io/badge/DM%20FOR-BUSINESS-5865F2?style=for-the-badge)](https://discord.com/users/1257479476741144619)
 
 Open for collaborations, projects, and opportunities.
 
