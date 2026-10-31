@@ -95,5 +95,17 @@ Here are some projects and experiments from my Minecraft journey.
 
 </div>
 
+---
+
+<div align="center">
+
+### 💼 Interested in Working Together?
+
+**DM FOR BUSINESS**
+
+Open for collaborations, projects, and opportunities.
+
+</div>
+
 
 
