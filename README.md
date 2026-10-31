@@ -53,5 +53,24 @@ Here are some projects and experiments from my Minecraft journey.
 | Resource Packs | Custom textures and visual experiments | Exploring |
 | Minecraft Add-ons | Learning custom content development | Exploring |
 
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Flyee77&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flyee77&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Building, learning, and creating — one block at a time.* ⛏️
+
+</div>
 
 
